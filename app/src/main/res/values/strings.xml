@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Labos 8</string>
+    <!--
+        <string name=""></string>
+    -->
+    <string name="zivotinja">Životinja: </string>
+    <string name="ptica">Ptica: </string>
+    <string name="spremi_postavke">Spremi postavke</string>
+    <string name="zapamtio">Zapamtio</string>
+</resources>
